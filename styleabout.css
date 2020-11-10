@@ -1,0 +1,49 @@
+body, html {
+    background-image: url("images/about.jpg");
+  height: auto;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+#first {
+	color: beige;
+	float: right;
+	font-family: Shmulik CLM;
+	text-shadow:1px 1px 2px #082b34;
+	font-size: 80%;                           
+	margin:0 15
+	}
+il {
+	display: inline;
+	float: right;
+	margin:3;
+	font-family: Shmulik CLM;
+}
+a:link {	
+	text-decoration: none;
+	color: beige;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:visited {
+	text-decoration: none;
+	color: beige;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:hover {
+	text-decoration: none;
+	color: #864313;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+#secondtitle {
+	text-decoration:overline;text-align:right; margin: 80 0 30px 0; width: 45%; font-size: 40px;text-shadow:1px 1px 2px #082b34; font-family:Shmulik CLM;color:#800000;
+}
+#about {
+	text-align:right;margin: 80 0px 0; width: 45%;font-size:150%;text-shadow:1px 1px 2px #082b34; font-family:Shmulik CLM;color:PapayaWhip;
+}
+#exclusivity {
+	color:black;text-align:center;
+}

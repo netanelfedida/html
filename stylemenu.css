@@ -1,0 +1,124 @@
+body, html {
+ 
+  background-image: url("images/menu.jpg");
+  height: auto;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+#first {
+	color: white;
+	float: right;
+	font-family: Guttman Yad;
+	text-shadow:1px 1px 2px #082b34;
+	font-size: 80%;                           
+	margin:0 15
+	}
+il {
+	display: inline;
+	float: right;
+	margin:7;
+	font-family: Guttman Yad;
+}
+a:link {	
+	text-decoration: none;
+	color: white;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:visited {
+	text-decoration: none;
+	color: white;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:hover {
+	text-decoration: none;
+	color: #864313;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+#title {
+	color:white;
+	font-size:300%;
+	text-align:center;
+	font-family:guttman yad;
+}
+#stitle {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	margin: 0% 01% 0% 0%
+}
+#ltitle {
+	color:white;
+	font-size:150%;
+	text-align:center;
+	font-family:guttman yad;
+	text-decoration:bold;
+}
+#list1 {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	text-decoration:bold;
+	float:right;
+	margin: 0% 01% 0% 0%
+}
+#ltitle2 {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	text-decoration:bold;
+	margin:0% 10% 0% 0%
+}
+#list2 {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	text-decoration:bold;
+	float:center;
+	margin: 0% 40% 0% 0%
+}
+#ltitle3 {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	text-decoration:bold;
+	margin: 0% 10% 0% 0%
+}
+#list3 {
+	color:white;
+	font-size:150%;
+	text-align:right;
+	font-family:guttman yad;
+	text-decoration:bold;
+	float:left;
+	margin: -16.5% 0% 0% 0%
+}
+#exclusivity {
+	color:white;text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,66 @@
+
+body, html {
+  background-image: url("images/bakery.jpg");
+  height: auto;
+  width: auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}  
+#first {
+	color: beige;
+	float: right;
+	font-family: Shmulik CLM;
+	text-shadow:1px 1px 2px #082b34;
+	font-size: 80%;                           
+	margin:0 15
+	}
+
+il {
+	display: inline;
+	float: right;
+	margin:7;
+	font-family: Shmulik CLM;
+}
+a:link {	
+	text-decoration: none;
+	color: beige;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:visited {
+	text-decoration: none;
+	color: beige;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+a:hover {
+	text-decoration: none;
+	color: #864313;
+	text-align: center-right;
+	text-shadow:1px 1px 2px #082b34
+}
+#title {
+	text-align:center;font-size:130px;text-shadow:1px 1px 2px #082b34;font-family:Shmulik CLM;color:SaddleBrown;
+} 
+
+#undertitle {
+	text-align:center;margin:-30; font-size:60px; text-shadow:1px 1px 2px #082b34; font-family:Shmulik CLM;color:SaddleBrown;
+}
+
+.bar {
+	background-color:#fff3e6;
+}
+#contacttitle {
+	text-align:center;font-size: 250%;text-shadow:1px 1px 2px #082b34; font-family:Shmulik CLM;color:#B22222;
+}
+#contactdetails {
+	text-align:center;font-weight:bold;font-size:150%; color:SaddleBrown;
+}
+#br {
+	font-size:1px
+}
+#exclusivity {
+	color:black;text-align:center;margin-top:-35
+}
+
